@@ -182,4 +182,9 @@ p {
         align-self: center;
   }
 }
+
+.attribute p {
+  text-align: center;
+  color: black;
+}
 /*# sourceMappingURL=styles.css.map */
