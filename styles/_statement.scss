@@ -1,0 +1,25 @@
+.statement{
+    text-align: center;
+    margin-bottom: 82px;
+
+    h1,h2{
+        font-size: 24px;
+        @media (min-width:1280px) {
+            font-size: 36px;
+        }
+    }
+
+    h1{
+        margin-bottom: 15px;
+    }
+
+    h2{
+        margin-bottom: 32px;
+    }
+
+    p{
+        margin-top: 0px;
+        line-height: 1.7;
+        max-width: 506px;
+    }
+}
